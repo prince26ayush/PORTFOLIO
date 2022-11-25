@@ -1,2 +1,2 @@
 # PORTFOLIO
-# Website LInk: - https://prince26ayush.netlify.app/
+# Website Link: - https://prince26ayush.netlify.app/
